@@ -1,4 +1,8 @@
 <div id="top"></div>
+# Notes 
+conda create -n abides python=3.9 
+pip install -r requirements.txt
+
 
 # ABIDES: Agent-Based Interactive Discrete Event Simulation environment
 
